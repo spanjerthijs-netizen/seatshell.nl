@@ -1,18 +1,10 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
-}
 
-header,
-footer {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 1em 0;
-}
-
-h1, h2 {
-    color: #333;
-}
+body{margin:0;font-family:Inter,sans-serif;background:#060607;color:#fff}
+.container{width:90%;max-width:1200px;margin:auto}
+.section{padding:80px 0}
+h1,h2{letter-spacing:-2px}
+.hero{display:flex;gap:40px;align-items:center}
+img{max-width:100%;border-radius:20px}
+.card{background:#111;padding:20px;border-radius:16px}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.button{padding:12px 20px;background:#fff;color:#000;border-radius:999px;display:inline-block;margin-top:20px}

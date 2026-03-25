@@ -1,8 +1,30 @@
-# SeatShell Website
-This repository contains all the files for the SeatShell website.
+SeatShell uitgebreide site + brand package
 
-## Overview
-The SeatShell website showcases our products and brand story.
+Inhoud:
+- index.html
+- about.html
+- vision.html
+- product.html
+- preorder.html
+- brand.html
+- deck.html
+- contact.html
+- styles.css
+- script.js
+- logo.svg
+- logo-main.svg
+- logo-wordmark.svg
+- logo-icon.svg
+- seatshell-render-front.png
+- seatshell-render-angle.png
 
-## Getting Started
-To view the website, open the `index.html` file in a web browser.
+Wat is toegevoegd:
+- uitgebreidere home
+- visiepagina
+- brand identity pagina
+- pitch / deck pagina
+- renders verwerkt
+- downloadbare code
+
+Formspree:
+Vervang YOUR_FORM_ID in preorder.html en contact.html
