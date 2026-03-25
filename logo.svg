@@ -1,7 +1,8 @@
-<svg width="1000" height="260" viewBox="0 0 1000 260" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="1000" height="260" rx="40" fill="#0B0B0E"/>
-<circle cx="90" cy="150" r="22" stroke="white" stroke-width="6"/>
-<circle cx="150" cy="150" r="22" stroke="white" stroke-width="6"/>
-<path d="M90 150L120 120H140L150 150" stroke="white" stroke-width="6" stroke-linecap="round"/>
-<text x="220" y="165" fill="white" font-family="Inter, Arial" font-size="96" font-weight="700" letter-spacing="-2">Seat<tspan fill="#9AA1AD">Shell</tspan></text>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="512" height="512" rx="128" fill="#0B0B0E"/>
+<circle cx="170" cy="308" r="44" stroke="white" stroke-width="16"/>
+<circle cx="342" cy="308" r="44" stroke="white" stroke-width="16"/>
+<path d="M170 308L232 236H292L342 308" stroke="white" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M232 236L258 308" stroke="white" stroke-width="16" stroke-linecap="round"/>
+<path d="M278 236H324" stroke="white" stroke-width="16" stroke-linecap="round"/>
 </svg>

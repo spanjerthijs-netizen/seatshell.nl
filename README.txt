@@ -1,30 +1,26 @@
-SeatShell uitgebreide site + brand package
+SeatShell merged full site
 
-Inhoud:
+Dit pakket herstelt de uitgebreide site en voegt toe:
+- definitief fiets-achtig logo
+- visiepagina
+- brand + pitch op één pagina
+- stijlenpagina met meerdere productrichtingen
+- alle code downloadbaar
+
+Bestanden:
 - index.html
 - about.html
 - vision.html
 - product.html
+- styles-page.html
+- brand-pitch.html
 - preorder.html
-- brand.html
-- deck.html
 - contact.html
 - styles.css
 - script.js
 - logo.svg
-- logo-main.svg
-- logo-wordmark.svg
-- logo-icon.svg
 - seatshell-render-front.png
 - seatshell-render-angle.png
-
-Wat is toegevoegd:
-- uitgebreidere home
-- visiepagina
-- brand identity pagina
-- pitch / deck pagina
-- renders verwerkt
-- downloadbare code
 
 Formspree:
 Vervang YOUR_FORM_ID in preorder.html en contact.html
